@@ -1,7 +1,7 @@
 <h1 align="center">Projeto 24 - Trybers and Dragons</h1>
 
 <div>
-  Para a realização do projeto, foram utilizadas as seguintes tecnologias: Express, MySql, API RESTful, MSC, Sequelize, NodeJs, JWT, JOI, TypeScript.
+  Para a realização do projeto, foram utilizadas as seguintes tecnologias: Express, MySql, API RESTful, MSC, Sequelize, NodeJs, TypeScript, POO, SOLID.
 </div>
 
 ##
